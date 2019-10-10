@@ -26,15 +26,7 @@
 - Design guideline
 - Membuat mockup
 
-**4. UX Writing**
-
-- Pengenalan UX writing
-- Tips mengembangkan UX writing
-- Simulasi UX writing
-
-[referensi](https://uxplanet.org/18-best-tips-to-improve-ux-writing-aa4995a4aa80)
-
-**5. UX Engineering**
+**4. UX Engineering**
 
 - HTML
   - [Pengenalan HTML](engineering/html/pengenalan-html.md)
@@ -61,7 +53,7 @@
   - [Manipulasi DOM](engineering/javascript/manipulasi-dom.md)
   - [Event](engineering/javascript/event.md)
 
-**6. UX Animation**
+**5. UX Animation**
 
 - Pengenalan UX animation
 - Duration, Speed, Acceleration
@@ -79,10 +71,10 @@
 
 [referensi](https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9)
 
-**7. UX Testing**
+**6. UX Testing**
 
 - [Usability testing](testing/usability-test.md)
-- [Tree test]()
+- [Tree test](testing/tree-test.md)
 - [A/B Testing](testing/ab-test.md)
 
 [referensi](https://www.uxbooth.com/articles/complete-beginners-guide-to-design-research/)
