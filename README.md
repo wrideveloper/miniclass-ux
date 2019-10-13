@@ -2,15 +2,13 @@
 
 **1. Fundamental UX**
 
-- Penjelasan UX
-- UX workflow
+- [Penjelasan UX](fundamental/definisi.md)
+- [UX workflow](fundamental/ux-workflow.md)
 
 **2. UX Research**
 
-- Pengenalan UX research
-- Mengumpulkan data
-- Membuat pertanyaan
-- Mewawancarai
+- [Pengenalan UX research](research/pengenalan)
+- [Mengumpulkan data](research/pengumpulan-data.md)
 - Membuat user persona
 - Membuat user story
 - Melakukan user story mapping
@@ -18,13 +16,13 @@
 
 **3. UX Design**
 
-- Pengenalan UX design
+- [Pengenalan UX design](design/pengenalan.md)
 - Information architecture
 - Membuat user journey
 - Membuat user flow
 - Membuat wireframe
-- Design guideline
-- Membuat mockup
+- [Design guideline](design/guideline.md)
+- [Membuat mockup](design/mockup.md)
 
 **4. UX Engineering**
 
