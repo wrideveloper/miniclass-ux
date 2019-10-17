@@ -1,5 +1,7 @@
 # UX Workflow
 
+![workflow](assets/workflow.png)
+
 Ux workflow adalah flow yang akan dikerjakan ux designer dengan cara menggunakan metode pengerjaan atau proses thinking kita dalam membuat sebuah produk diantara beberapa metode ux yang paling terkenal adalah metode design thinking,metode ini dikembangkan oleh ideo sebuah agensi desain terbesar di dunia.
 
 Dalam metode design thinking adalah step step yang harus dikerjakan yaitu:

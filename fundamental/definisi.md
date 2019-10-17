@@ -8,6 +8,8 @@ Bahasa gampanya ux design itu proses membuat website atau app yang kamu buat men
 
 ## Perbedaan UI dan UX
 
+![ui vs ux](assets/ui_ux.jpg)
+
 ### What is UI
 
 UI atau User Interface merupakan mekanisme komunikasi antara pengguna (user) dengan sistem pada sebuah program, baik itu aplikasi website, mobile, ataupun software. Mekanisme itu disesuaikan dengan kebutuhan pengguna terhadap program yang tengah dikembangkan. Cakupan UI itu meliputi tampilan fisik, penggunaan warna, tampilan animasi, hingga pola komunikasi suatu program dengan penggunanya.
