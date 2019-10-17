@@ -4,6 +4,8 @@ setelah kita menentukan design guideline yang kita anut, saatnya kita mendesain 
 
 ## Pengertian
 
+![Mockup](assets/mockup.png)
+
 Mockup menurut kami adalah desain tampilan dari sebuah aplikasi yang akan digunakan / diterapkan pada aplikasi sesungguhnya. Tujuan dari Mockup tersebut adalah mendesain tampilan dari aplikasi yang akan kita buat. Karena kita ketahui bahwa tidak semua developer aplikasi memiliki ilmu desain yang baik.
 
 ## Tools

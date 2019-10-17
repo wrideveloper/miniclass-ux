@@ -1,5 +1,7 @@
 # Pengenalan UX Design
 
+![Sawah](assets/sawah.png)
+
 Setelah kita mendapatkan ide-ide liar setelah melakukan riset, apa yang harus kita lakukan? Masa dibiarin aja? Kamu aja gamau dicuekin apalagi usermu kan :)
 
 ## Pengertian

@@ -2,6 +2,8 @@
 
 ## Pengertian
 
+![Guidelines](assets/guidelines.png)
+
 Design guideline merupakan sebuah panduan yang mengatur ketentuan desain dari suatu aplikasi seperti color palette, assets, icons, dan lain sebagainya. Panduan ini harus diikuti oleh seluruh anggota tim developer suatu aplikasi.
 
 ## Tujuan

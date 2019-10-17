@@ -1,11 +1,11 @@
 # Miniclass UI dan UX
 
-**1. Fundamental UX**
+## 1. Fundamental UX
 
 - [Penjelasan UX](fundamental/definisi.md)
 - [UX workflow](fundamental/ux-workflow.md)
 
-**2. UX Research**
+## 2. UX Research
 
 - [Pengenalan UX research](research/pengenalan)
 - [Mengumpulkan data](research/pengumpulan-data.md)
@@ -14,7 +14,7 @@
 - Melakukan user story mapping
 - Menentukan fitur
 
-**3. UX Design**
+## 3. UX Design
 
 - [Pengenalan UX design](design/pengenalan.md)
 - Information architecture
@@ -24,7 +24,7 @@
 - [Design guideline](design/guideline.md)
 - [Membuat mockup](design/mockup.md)
 
-**4. UX Engineering**
+## 4. UX Engineering
 
 - HTML
   - [Pengenalan HTML](engineering/html/pengenalan-html.md)
@@ -51,7 +51,7 @@
   - [Manipulasi DOM](engineering/javascript/manipulasi-dom.md)
   - [Event](engineering/javascript/event.md)
 
-**5. UX Animation**
+## 5. UX Animation
 
 - Pengenalan UX animation
 - Duration, Speed, Acceleration
@@ -69,7 +69,7 @@
 
 [referensi](https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9)
 
-**6. UX Testing**
+## 6. UX Testing
 
 - [Usability testing](testing/usability-test.md)
 - [Tree test](testing/tree-test.md)
