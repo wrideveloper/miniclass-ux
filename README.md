@@ -9,9 +9,9 @@
 
 - [Pengenalan UX research](research/pengenalan)
 - [Mengumpulkan data](research/pengumpulan-data.md)
-- Membuat user persona
-- Membuat user story
-- Melakukan user story mapping
+- [Membuat user persona](research/persona.md)
+- [Membuat user story](research/story.md)
+- [Melakukan user story mapping](research/story_mapping.md)
 - Menentukan fitur
 
 ## 3. UX Design
@@ -20,7 +20,7 @@
 - Information architecture
 - Membuat user journey
 - Membuat user flow
-- Membuat wireframe
+- [Membuat wireframe](design/wireframe.md)
 - [Design guideline](design/guideline.md)
 - [Membuat mockup](design/mockup.md)
 
