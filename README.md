@@ -5,26 +5,15 @@
 - [Penjelasan UX](fundamental/definisi.md)
 - [UX workflow](fundamental/ux-workflow.md)
 
-## 2. UX Research
-
-- [Pengenalan UX research](research/pengenalan)
-- [Mengumpulkan data](research/pengumpulan-data.md)
-- [Membuat user persona](research/persona.md)
-- [Membuat user story](research/story.md)
-- [Melakukan user story mapping](research/story_mapping.md)
-- Menentukan fitur
-
-## 3. UX Design
+## 2. UX Design
 
 - [Pengenalan UX design](design/pengenalan.md)
-- Information architecture
-- Membuat user journey
 - Membuat user flow
 - [Membuat wireframe](design/wireframe.md)
 - [Design guideline](design/guideline.md)
 - [Membuat mockup](design/mockup.md)
 
-## 4. UX Engineering
+## 3. UX Engineering
 
 - HTML
   - [Pengenalan HTML](engineering/html/pengenalan-html.md)
@@ -51,7 +40,7 @@
   - [Manipulasi DOM](engineering/javascript/manipulasi-dom.md)
   - [Event](engineering/javascript/event.md)
 
-## 5. UX Animation
+## 4. UX Animation
 
 - Pengenalan UX animation
 - Duration, Speed, Acceleration
@@ -68,6 +57,16 @@
 - Subordinate and Equal Interaction
 
 [referensi](https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9)
+
+## 5. UX Research
+
+- [Pengenalan UX research](research/pengenalan)
+- [Mengumpulkan data](research/pengumpulan-data.md)
+- [Membuat user persona](research/persona.md)
+- [Membuat user story](research/story.md)
+- Membuat user journey
+- [Melakukan user story mapping](research/story_mapping.md)
+- Menentukan fitur
 
 ## 6. UX Testing
 
