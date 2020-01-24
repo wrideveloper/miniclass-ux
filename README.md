@@ -5,7 +5,14 @@
 - [Penjelasan UX](fundamental/definisi.md)
 - [UX workflow](fundamental/ux-workflow.md)
 
-## 2. UX Design
+## 2. Desain Grafis
+
+- [Shaping](design/shaping.md)
+- [Coloring](design/coloring.md)
+- [Masking](design/masking.md)
+- [Tracing]
+
+## 3. UX Design
 
 - [Pengenalan UX design](design/pengenalan.md)
 - Membuat user flow
@@ -13,7 +20,7 @@
 - [Design guideline](design/guideline.md)
 - [Membuat mockup](design/mockup.md)
 
-## 3. UX Engineering
+## 4. UX Engineering
 
 - HTML
   - [Pengenalan HTML](engineering/html/pengenalan-html.md)
@@ -40,7 +47,7 @@
   - [Manipulasi DOM](engineering/javascript/manipulasi-dom.md)
   - [Event](engineering/javascript/event.md)
 
-## 4. UX Animation
+## 5. UX Animation
 
 - Pengenalan UX animation
 - Duration, Speed, Acceleration
@@ -58,7 +65,7 @@
 
 [referensi](https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9)
 
-## 5. UX Research
+## 6. UX Research
 
 - [Pengenalan UX research](research/pengenalan)
 - [Mengumpulkan data](research/pengumpulan-data.md)
@@ -68,7 +75,7 @@
 - [Melakukan user story mapping](research/story_mapping.md)
 - Menentukan fitur
 
-## 6. UX Testing
+## 7. UX Testing
 
 - [Usability testing](testing/usability-test.md)
 - [Tree test](testing/tree-test.md)
