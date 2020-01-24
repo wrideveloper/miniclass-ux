@@ -2,6 +2,7 @@
 
 ## Pengertian
 
+![Shaping](assets/shaping.jpg)
 Shaping adalah seebuah teknik / cara untuk menggambar suatu bentuk vektor.
 
 ## Tools Yang Digunakan

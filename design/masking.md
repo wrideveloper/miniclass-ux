@@ -1,7 +1,7 @@
 # Masking
 
 ## Pengertian
-
+![Masking](assets/masking.jpg)
 Masking secara bahasa adalah penutup / topeng. Disini dapat kita ketahui bahwa masking adalah menutupi suatu bagian vektor dengan vektor yang lain.
 
 ## Tujuan

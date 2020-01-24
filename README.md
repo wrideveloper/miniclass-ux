@@ -10,7 +10,7 @@
 - [Shaping](design/shaping.md)
 - [Coloring](design/coloring.md)
 - [Masking](design/masking.md)
-- [Tracing]
+- Tracing
 
 ## 3. UX Design
 

@@ -1,5 +1,5 @@
 # Coloring
-
+![Coloring](assets/coloring.jpg)
 ## Pengertian
 
 Coloring adalah sebuah teknik untuk memperindah desain vektor dengan cara memberi warna. Warna pada desain vektor dapat diletakkan pada fill dan outline.
