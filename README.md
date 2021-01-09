@@ -19,6 +19,7 @@
 - [Membuat wireframe](design/wireframe.md)
 - [Design guideline](design/guideline.md)
 - [Membuat mockup](design/mockup.md)
+- [Prototyping](design/prototyping.md)
 
 ## 4. UX Engineering
 
