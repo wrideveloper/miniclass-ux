@@ -15,10 +15,11 @@
 ## 3. UX Design
 
 - [Pengenalan UX design](design/pengenalan.md)
-- Membuat user flow
+- [Membuat user flow](design/userflow.md)
 - [Membuat wireframe](design/wireframe.md)
 - [Design guideline](design/guideline.md)
 - [Membuat mockup](design/mockup.md)
+- [Prototyping](design/prototyping.md)
 
 ## 4. UX Engineering
 
