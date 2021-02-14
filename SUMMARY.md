@@ -1,6 +1,6 @@
 # Summary
 
-- [Miniclass UI/UX](Pendahuluan.md)
+- [Miniclass UI/UX](README.md)
 
 ## 1. Fundamental UX
 
