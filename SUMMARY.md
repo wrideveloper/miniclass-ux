@@ -1,66 +1,71 @@
-# Summary
+# Table of contents
 
-- [Miniclass UI/UX](README.md)
+* [〰️ Intro to Miniclass UI/UX](README.md)
 
-## 1. Fundamental UX
+## User Interface
 
-- [Penjelasan UX](fundamental/definisi.md)
-- [UX workflow](fundamental/ux-workflow.md)
+* [🖌️ Graphic Design Fundamental](user-interface/graphic-design-fundamental/README.md)
+  * [Shaping](user-interface/graphic-design-fundamental/shaping.md)
+  * [Coloring](user-interface/graphic-design-fundamental/coloring.md)
+  * [Masking](user-interface/graphic-design-fundamental/masking.md)
 
-## 2. Desain Grafis
+## User Experience
 
-- [Shaping](design/shaping.md)
-- [Coloring](design/coloring.md)
-- [Masking](design/masking.md)
+* [📍 Fundamental UX](user-experience/fundamental-ux/README.md)
+  * [Penjelasan UX](user-experience/fundamental-ux/definisi.md)
+  * [UX Workflow](user-experience/fundamental-ux/ux-workflow.md)
+* [🖼️ UX Design](user-experience/ux-design/README.md)
+  * [Pengenalan UX Design](user-experience/ux-design/pengenalan-ux-design.md)
+  * [Membuat User Flow](user-experience/ux-design/membuat-user-flow.md)
+  * [Membuat Wireframe](user-experience/ux-design/membuat-wireframe.md)
+  * [Design Guideline](user-experience/ux-design/design-guideline.md)
+  * [Membuat Mockup](user-experience/ux-design/membuat-mockup.md)
+  * [Prototyping](user-experience/ux-design/prototyping.md)
+* [🔎 UX Research](user-experience/ux-research/README.md)
+  * [Pengenalan UX Research](user-experience/ux-research/pengenalan-ux-research.md)
+  * [Mengumpulkan Data](user-experience/ux-research/mengumpulkan-data.md)
+  * [Membuat User Persona](user-experience/ux-research/membuat-user-persona.md)
+  * [Membuat User Story](user-experience/ux-research/membuat-user-story.md)
+  * [Melakukan User Story Mapping](user-experience/ux-research/melakukan-user-story-mapping.md)
+* [💉 UX Testing](user-experience/ux-testing/README.md)
+  * [Usability testing](user-experience/ux-testing/usability-test.md)
+  * [Tree Test](user-experience/ux-testing/tree-test.md)
+  * [A/B Testing](user-experience/ux-testing/ab-testing.md)
+* [👨‍💻 UX Engineering](user-experience/ux-engineering/README.md)
+  * [♯ HTML](user-experience/ux-engineering/html/README.md)
+    * [Pengenalan HTML](user-experience/ux-engineering/html/pengenalan-html.md)
+    * [Text Formatting](user-experience/ux-engineering/html/text-formatting.md)
+    * [Link](user-experience/ux-engineering/html/link.md)
+    * [Media](user-experience/ux-engineering/html/media.md)
+    * [List](user-experience/ux-engineering/html/list.md)
+    * [Table](user-experience/ux-engineering/html/table.md)
+    * [Form](user-experience/ux-engineering/html/form.md)
+    * [Grouping](user-experience/ux-engineering/html/grouping.md)
+  * [✨ CSS](user-experience/ux-engineering/css/README.md)
+    * [Pengenalan CSS](user-experience/ux-engineering/css/pengenalan-css.md)
+    * [Text Formatting](user-experience/ux-engineering/css/text-formatting.md)
+    * [Background](user-experience/ux-engineering/css/background.md)
+    * [Border](user-experience/ux-engineering/css/border.md)
+    * [Height dan Width](user-experience/ux-engineering/css/height-dan-width.md)
+    * [Spacing](user-experience/ux-engineering/css/spacing.md)
+    * [Layouting](user-experience/ux-engineering/css/layouting.md)
+  * [☕ Javascript](user-experience/ux-engineering/javascript/README.md)
+    * [Pengenalan Javascript](user-experience/ux-engineering/javascript/pengenalan-javascript.md)
+    * [Manipulasi DOM](user-experience/ux-engineering/javascript/manipulasi-dom.md)
+    * [Event](user-experience/ux-engineering/javascript/event.md)
 
-## 3. UX Design
+## Design Thinking
 
-- [Pengenalan UX design](design/pengenalan.md)
-- [Membuat user flow](design/userflow.md)
-- [Membuat wireframe](design/wireframe.md)
-- [Design guideline](design/guideline.md)
-- [Membuat mockup](design/mockup.md)
-- [Prototyping](design/prototyping.md)
-
-## 4. UX Engineering
-
-- HTML
-  - [Pengenalan HTML](engineering/html/pengenalan-html.md)
-  - [Text Formatting](engineering/html/text-formatting.md)
-  - [Link](engineering/html/link.md)
-  - [Media](engineering/html/media.md)
-  - [List](engineering/html/list.md)
-  - [Table](engineering/html/table.md)
-  - [Form](engineering/html/form.md)
-  - [Grouping](engineering/html/grouping.md)
-- CSS
-  - [Pengenalan CSS](engineering/css/pengenalan-css.md)
-  - [Text Formatting](engineering/css/text-formatting.md)
-  - [Background](engineering/css/background.md)
-  - [Border](engineering/css/border.md)
-  - [Height dan Width](engineering/css/height-dan-width.md)
-  - [Spacing](engineering/css/spacing.md)
-  - [Layouting](engineering/css/layouting.md)
-- Javascript
-  - [Pengenalan Javascript](engineering/javascript/pengenalan-javascript.md)
-  - [Manipulasi DOM](engineering/javascript/manipulasi-dom.md)
-  - [Event](engineering/javascript/event.md)
-
-## 5. UX Research
-
-- [Pengenalan UX research](research/pengenalan)
-- [Mengumpulkan data](research/pengumpulan-data.md)
-- [Membuat user persona](research/persona.md)
-- [Membuat user story](research/story.md)
-- [Melakukan user story mapping](research/story_mapping.md)
-
-## 6. UX Testing
-
-- [Usability testing](testing/usability-test.md)
-- [Tree test](testing/tree-test.md)
-- [A/B Testing](testing/ab-test.md)
+* [📌 Intro - Pengenalan Design Thinking](design-thinking/pengenalan-design-thinking.md)
+* [🎭Fase Emphatize](design-thinking/fase-emphatize/README.md)
+  * [Untitled](design-thinking/fase-emphatize/untitled.md)
+* [📎 Fase Define](design-thinking/fase-define.md)
+* [💡Fase Ideate](design-thinking/fase-ideate.md)
+* [📱Fase Prototype](design-thinking/fase-prototype.md)
+* [💉 Fase Testing](design-thinking/fase-testing.md)
 
 ## Referesi Lain
 
-- [UX Animation](https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9)
-- [UX Research](https://medium.com/design-jam-indonesia/apa-itu-design-thinking-63c8416c9dd0)
+* [UX Animation](https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9)
+* [UX Research](https://medium.com/design-jam-indonesia/apa-itu-design-thinking-63c8416c9dd0)
+

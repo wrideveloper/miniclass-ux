@@ -1,64 +1,25 @@
-# Miniclass UI dan UX
+---
+description: 'Sebelum mulai, perkenalan dulu yuk!'
+---
 
-## 1. Fundamental UX
+# 〰️ Intro to Miniclass UI/UX
 
-- [Penjelasan UX](fundamental/definisi.md)
-- [UX workflow](fundamental/ux-workflow.md)
+![Sumber: dribbble.com](.gitbook/assets/image%20%2814%29.png)
 
-## 2. Desain Grafis
+## [👋](https://emojipedia.org/waving-hand/) Selamat Datang di Miniclass UI/UX!
 
-- [Shaping](design/shaping.md)
-- [Coloring](design/coloring.md)
-- [Masking](design/masking.md)
+Miniclass UI/UX adalah salah satu dari 4 Miniclass di Workshop & Riset Informatika\(WRI\) Politeknik Negeri Malang. Dengan semakin berkembangnya produk digital, peran UI/UX sangat penting untuk memberikan pengalaman terbaik menggunakan produk ke pengguna.
 
-## 3. UX Design
+Materi pada Gitbook ini membahas tentang metode-metode dan langkah-langkah di setiap disipin ilmu UI/UX. Diharapkan teman-teman yang mengakses materi ini bisa menambah referensi ketika sedang belajar UI/UX.
 
-- [Pengenalan UX design](design/pengenalan.md)
-- [Membuat user flow](design/userflow.md)
-- [Membuat wireframe](design/wireframe.md)
-- [Design guideline](design/guideline.md)
-- [Membuat mockup](design/mockup.md)
-- [Prototyping](design/prototyping.md)
+### Sumber Materi:
 
-## 4. UX Engineering
+* [medium.com](https://medium.com/)
+* [usabilitygeek.com](https://usabilitygeek.com/)
+* [xd.adobe.com](https://xd.adobe.com/)
+* [invisionapp.com](https://www.invisionapp.com/)
+* [sanbercode.com](https://blog.sanbercode.com/docs/kurikulum-ui-ux-design/)
+* [pixelninja.id](https://pixelninja.id/courses/user-interface-design-for-android-basic/)
 
-- HTML
-  - [Pengenalan HTML](engineering/html/pengenalan-html.md)
-  - [Text Formatting](engineering/html/text-formatting.md)
-  - [Link](engineering/html/link.md)
-  - [Media](engineering/html/media.md)
-  - [List](engineering/html/list.md)
-  - [Table](engineering/html/table.md)
-  - [Form](engineering/html/form.md)
-  - [Grouping](engineering/html/grouping.md)
-- CSS
-  - [Pengenalan CSS](engineering/css/pengenalan-css.md)
-  - [Text Formatting](engineering/css/text-formatting.md)
-  - [Background](engineering/css/background.md)
-  - [Border](engineering/css/border.md)
-  - [Height dan Width](engineering/css/height-dan-width.md)
-  - [Spacing](engineering/css/spacing.md)
-  - [Layouting](engineering/css/layouting.md)
-- Javascript
-  - [Pengenalan Javascript](engineering/javascript/pengenalan-javascript.md)
-  - [Manipulasi DOM](engineering/javascript/manipulasi-dom.md)
-  - [Event](engineering/javascript/event.md)
 
-## 5. UX Research
 
-- [Pengenalan UX research](research/pengenalan)
-- [Mengumpulkan data](research/pengumpulan-data.md)
-- [Membuat user persona](research/persona.md)
-- [Membuat user story](research/story.md)
-- [Melakukan user story mapping](research/story_mapping.md)
-
-## 6. UX Testing
-
-- [Usability testing](testing/usability-test.md)
-- [Tree test](testing/tree-test.md)
-- [A/B Testing](testing/ab-test.md)
-
-## Referesi Lain
-
-- [UX Animation](https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9)
-- [UX Research](https://medium.com/design-jam-indonesia/apa-itu-design-thinking-63c8416c9dd0)
