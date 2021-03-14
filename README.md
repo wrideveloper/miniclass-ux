@@ -15,6 +15,7 @@ Materi pada Gitbook ini membahas tentang metode-metode dan langkah-langkah di se
 ### Sumber Materi:
 
 * [medium.com](https://medium.com/)
+* [nngroup.com](http://nngroup.com/)
 * [usabilitygeek.com](https://usabilitygeek.com/)
 * [xd.adobe.com](https://xd.adobe.com/)
 * [invisionapp.com](https://www.invisionapp.com/)

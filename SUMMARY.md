@@ -57,7 +57,9 @@
 ## Design Thinking
 
 * [📌 Intro - Pengenalan Design Thinking](design-thinking/pengenalan-design-thinking.md)
-* [📎 Fase Define](design-thinking/fase-define.md)
+* [🎭 Fase Empathize](design-thinking/fase-empathize.md)
+* [📎 Fase Define](design-thinking/fase-define/README.md)
+  * [Mengidentifikasi dan Mendefinisikan Insights](design-thinking/fase-define/mengidentifikasi-dan-mendefinisikan-insights.md)
 * [💡Fase Ideate](design-thinking/fase-ideate.md)
 * [📱Fase Prototype](design-thinking/fase-prototype.md)
 * [💉 Fase Testing](design-thinking/fase-testing.md)
