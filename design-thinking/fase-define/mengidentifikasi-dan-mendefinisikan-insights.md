@@ -94,9 +94,9 @@ Setelah dijelaskan tentang apa itu _insight_, cara membuatnya dengan User Need S
 
 ### [🧗](https://emojipedia.org/person-climbing/) Cara Membuat User Need Statement
 
-1. Bukalah Affinity Mapping yang sudah dikerjakan sebelumnya di Miro pada _link_ ini.
-2. Bukalah _template_ User Need Statement. Gunakan petak yang sesuai dengan nama _breakout rooom-_mu.
-3. Mulailah berdiskusi dengan teman-teman dan mentor di _breakout room-mu_ dan tuliskan User Need Statementnya. Kamu bisa mengikuti contoh yang sudah disediakan di atas dan apabila bingung, jangan malu untuk bertanya ke kakak-kakak mentornya.
+1. Bukalah [_template_ User Need Statement](https://miro.com/welcomeonboard/qoug9v9BX5Nmqy74Rd3SCrdZAwMFFoEN93RgnPLEqhv5kuZia2aRzsQzMSLo5jJz). Gunakan petak yang sesuai dengan nama _breakout rooom-_mu.
+2. Ambillah 1 _sticky note_ dan letakkan di kolom `Findings`.
+3. Mulailah berdiskusi dengan teman-teman dan mentor di _breakout room-mu._ tuliskan User Need Statementnya pada kolom `User Need Statement` berdasarkan _sticky note_ tersebut. Kamu bisa mengikuti contoh yang sudah disediakan di atas dan apabila bingung, jangan malu untuk bertanya ke kakak-kakak mentornya.
 
 Terima kasih dan Semangat [🙌](https://emojipedia.org/raising-hands/)[🔥](https://emojipedia.org/fire/)
 
