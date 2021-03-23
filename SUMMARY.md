@@ -60,7 +60,8 @@
 * [🎭 Fase Empathize](design-thinking/fase-empathize.md)
 * [📎 Fase Define](design-thinking/fase-define/README.md)
   * [Mengidentifikasi dan Mendefinisikan Insights](design-thinking/fase-define/mengidentifikasi-dan-mendefinisikan-insights.md)
-* [💡Fase Ideate](design-thinking/fase-ideate.md)
+* [💡Fase Ideate](design-thinking/fase-ideate/README.md)
+  * [Menuangkan Ide Brilian dengan Sketchstorming](design-thinking/fase-ideate/menuangkan-ide-brilian-dengan-sketchstorming.md)
 * [📱Fase Prototype](design-thinking/fase-prototype.md)
 * [💉 Fase Testing](design-thinking/fase-testing.md)
 

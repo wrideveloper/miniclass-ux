@@ -33,7 +33,7 @@ Hal-hal kenapa kamu harus mendefiniskan _insights_ diantaranya:
 
 ## 🕵️‍♂️ __User Need Statement - _Tool_ untuk Mengidentifikasi _Insights_
 
-![Mencari tahu kebutuhan dan . Sumber: medium.com](../../.gitbook/assets/image%20%2819%29.png)
+![Mencari tahu kebutuhan. Sumber: medium.com](../../.gitbook/assets/image%20%2819%29.png)
 
 _User Need Statement_ adalah sebuah _tool_ untuk membantu kita membuat pernyataan _actionable_ tentang _problem_ yang dialami _user_, dengan tujuan untuk mengetahui siapa penggunanya, apa kebutuhannya, dan mengapa kebutuhan itu penting bagi _user_ tersebut.
 
