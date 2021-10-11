@@ -1,10 +1,10 @@
 ---
-description: 'Belajar Cascading Stylesheet, supaya designmu lebih cantik dan tidak kaku'
+description: Belajar Cascading Stylesheet, supaya designmu lebih cantik dan tidak kaku
 ---
 
 # ✨ CSS
 
-## 🛢 Materi
+## :oil: Materi
 
 * [Pengenalan CSS](pengenalan-css.md)
 * [Text Formatting](text-formatting.md)
@@ -13,4 +13,3 @@ description: 'Belajar Cascading Stylesheet, supaya designmu lebih cantik dan tid
 * [Height dan Width](height-dan-width.md)
 * [Spacing](spacing.md)
 * [Layouting](layouting.md)
-

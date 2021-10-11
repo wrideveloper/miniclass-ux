@@ -8,9 +8,8 @@ Saat kita akan mendesain sebuah UI Design, kita pasti sudah ada ide untuk apa ya
 
 ## Pengertian
 
-User Flow \(Alur Pengguna\) adalah alur yang menjelaskan bagaimana cara orang / pengguna akan menggunakan / berinteraksi dengan aplikasi tersebut.
+User Flow (Alur Pengguna) adalah alur yang menjelaskan bagaimana cara orang / pengguna akan menggunakan / berinteraksi dengan aplikasi tersebut.
 
 ## Referensi Baca
 
-* [Berlatih Membuat User Flow \| Dwinawan \| Insight \| Medium](https://medium.com/insightdesign/berlatih-membuat-user-flow-caa8c8b3f596)
-
+* [Berlatih Membuat User Flow | Dwinawan | Insight | Medium](https://medium.com/insightdesign/berlatih-membuat-user-flow-caa8c8b3f596)

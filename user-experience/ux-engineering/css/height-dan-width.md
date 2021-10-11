@@ -34,4 +34,3 @@ div {
   min-width: 500px;
 }
 ```
-

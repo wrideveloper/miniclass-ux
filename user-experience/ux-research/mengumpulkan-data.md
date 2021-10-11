@@ -23,4 +23,3 @@ Dalam metode kuantitative ada beberapa riset yang bisa digunakan
 
 * User survey : kuisioner dengan format terstuktur, menargetkan persona, pengguna yang jelas. Cara yang tepat untuk mengumpulkan beberapa data.
 * A/B testing : membandingkan dua situs web yang berbeda untuk menguji penempatan tombol, spanduk dll.
-

@@ -31,4 +31,3 @@ kita dapat menggunakan tag `video` untuk menampilkan video player pada HTML, ber
 ```
 
 attribut `src` diarahkan ke lokasi video yang ingin kita putar
-

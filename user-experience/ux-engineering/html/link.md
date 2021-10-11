@@ -14,4 +14,3 @@ Kita dapat menggunakan tag `a` untuk membuat link menuju halaman web lain, berik
 ```
 
 jangan lupa untuk mengisi attribut `href` untuk menentukan kemana kita akan diarahkan setelah mengklik link tersebut
-

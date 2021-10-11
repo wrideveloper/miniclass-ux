@@ -6,7 +6,7 @@ Dengan menggunakan HTML, kita bisa malakukan formatting terhadap text, seperti m
 
 Heading digunakan untuk menuliskan judul, terdapat enam jenis heading, diurutkan tergantung dari pentingnya dan ukurannya, menggunakan angka seperti `h1`, `h2`, `h3`, `h4`, `h5`, `h6`,
 
-```text
+```
 <h1>Ini heading 1 loh</h1>
 <h2>Ini heading 2 loh</h2>
 <h3>Ini heading 3 loh</h3>
@@ -41,4 +41,3 @@ Styling umum yang dapat digunakan antara lain bold `b`, italic `i`, underline `u
 
 <s>mencoret text</s>
 ```
-

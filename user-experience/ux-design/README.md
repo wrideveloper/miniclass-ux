@@ -6,7 +6,7 @@ description: >-
 
 # 🖼️ UX Design
 
-## 🛢 Materi
+## :oil: Materi
 
 * [Pengenalan UX Design](pengenalan-ux-design.md)
 * [Membuat User Flow](membuat-user-flow.md)
@@ -14,4 +14,3 @@ description: >-
 * [Design Guideline](design-guideline.md)
 * [Membuat Mockup](membuat-mockup.md)
 * [Prototyping](prototyping.md)
-

@@ -21,9 +21,8 @@ Ada beberapa manfaat untuk mengadopsi pendekatan cerita pengguna dalam pengemban
 
 * Sebagai apakah anda?
 * Apa keinginan anda?
-* Untuk apa anda melakukan itu? \(Opsional\)
+* Untuk apa anda melakukan itu? (Opsional)
 
 Contoh :
 
 > Sebagai pengguna aplikasi, aku ingin memilih barang yang ingin aku beli dengan mudah agar aku bisa dengan cepat membeli barang yang aku inginkan
-

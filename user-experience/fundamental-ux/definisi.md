@@ -12,7 +12,7 @@ Bahasa gampanya ux design itu proses membuat website atau app yang kamu buat men
 
 ### What is UI
 
-UI atau User Interface merupakan mekanisme komunikasi antara pengguna \(user\) dengan sistem pada sebuah program, baik itu aplikasi website, mobile, ataupun software. Mekanisme itu disesuaikan dengan kebutuhan pengguna terhadap program yang tengah dikembangkan. Cakupan UI itu meliputi tampilan fisik, penggunaan warna, tampilan animasi, hingga pola komunikasi suatu program dengan penggunanya.
+UI atau User Interface merupakan mekanisme komunikasi antara pengguna (user) dengan sistem pada sebuah program, baik itu aplikasi website, mobile, ataupun software. Mekanisme itu disesuaikan dengan kebutuhan pengguna terhadap program yang tengah dikembangkan. Cakupan UI itu meliputi tampilan fisik, penggunaan warna, tampilan animasi, hingga pola komunikasi suatu program dengan penggunanya.
 
 ### Whats is UX
 
@@ -27,4 +27,3 @@ Seorang desainer UI akan mendesain program aplikasi web atau mobile-nya sesuai d
 Sedangkan, desainer UX membuat program berdasarkan pengalaman dari penggunanya. Apa saja yang dirasakan dan kesulitan apa saja yang dihadapi ketika menggunakan program tersebut.
 
 Sebenarnya, keduanya memiliki tujuan yang sama dalam mendesain program aplikasi web ataupun mobile, yakni memudahkan penggunannya. Oleh sebab itu, seringkali dalam proses perancangan sebuah program, desainer UI dan UX selalu berada dalam satu tim. Sebab, dengan perpaduan keduanya, sebuah program aplikasi web ataupun mobile menjadi sangat mudah digunakan oleh pengguna tanpa harus membaca panduan. Seringkali, desainer UI dan UX bertukar data analisis untuk menyempurnakan program yang tengah dibuatnya.
-

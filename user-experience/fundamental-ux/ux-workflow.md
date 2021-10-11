@@ -25,4 +25,3 @@ Ide yang sudah ada sebelumnya maka perlu langsung diimplementasikan dalam sebuah
 ## Test
 
 Dari produk atau aplikasi uji coba yang sudah dibuat, maka akan dilakukan sebuah percobaan dengan pengguna. Dari pengalaman pengguna dalam menggunakan produk uji coba, maka akan didapatkan masukkan untuk membuat produk yang lebih baik dan melakukan perbaikan pada produk yang ada.
-

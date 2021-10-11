@@ -74,4 +74,3 @@ div {
   background-position: left top;
 }
 ```
-

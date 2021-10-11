@@ -2,7 +2,7 @@
 
 ## 1. Penjelasan CSS
 
-Cascading StyleSheet \(CSS\) merupakan bahasa `style sheet` yang berguna untuk membantu menyajikan dokumen yang ditulis dengan HTML. Apabila HTML hanya bisa menentukan struktur tampilannya, maka CSS dapat menentukan bagaimana gaya dari tampilan tersebut.
+Cascading StyleSheet (CSS) merupakan bahasa `style sheet` yang berguna untuk membantu menyajikan dokumen yang ditulis dengan HTML. Apabila HTML hanya bisa menentukan struktur tampilannya, maka CSS dapat menentukan bagaimana gaya dari tampilan tersebut.
 
 Apabila kita ingin membuat sebuah halaman web, maka kita akan menggunakan kombinasi dari HTML dan CSS agar tampilan web kita terstruktur dan indah
 
@@ -126,7 +126,7 @@ a:hover {
 
 ## 5. Property
 
-Setelah elemen dipilih, property dari style yang tersedia dapat diterapkan pada elemen tersebut. Nama properti diikuti dengan tanda titik dua \(colon\) \(`:`\) diikuti dengan nilai atau value yang ditutup dengan titik koma \(`;`\)
+Setelah elemen dipilih, property dari style yang tersedia dapat diterapkan pada elemen tersebut. Nama properti diikuti dengan tanda titik dua (colon) (`:`) diikuti dengan nilai atau value yang ditutup dengan titik koma (`;`)
 
 Properti umum yang bisa digunakan :
 
@@ -148,4 +148,3 @@ selector {
   property: value;
 }
 ```
-

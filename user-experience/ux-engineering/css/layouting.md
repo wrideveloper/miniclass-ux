@@ -26,7 +26,7 @@ Inline block mirip dengan inline, yaitu akan selalu mengikuti baris yang sudah a
 
 ## 4. Flexbox
 
-Flexbox \(Flexible Box\) merupakan cara terbaru untuk melakukan layouting pada web yang mendukung design responsive
+Flexbox (Flexible Box) merupakan cara terbaru untuk melakukan layouting pada web yang mendukung design responsive
 
 Ciri khas dari flexbox yaitu kita dapat mendesain layout berdasarkan containernya, sedangkan child elementnya dapat memiliki size yang berbeda - beda namun tetap responsive
 
@@ -37,5 +37,4 @@ Ciri khas dari flexbox yaitu kita dapat mendesain layout berdasarkan containerny
 1. [Dasar CSS Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 2. [Layouting dengan CSS Flexbox](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i3FXJSUfmsNOx8E7u6UuhG)
 3. [Cheatsheet flexbox](https://github.com/wrideveloper/miniclass-ux/tree/552484897662daccd7363e2b0a88be9736f17cee/engineering/css/flexboxsheet.png)
-4. [Membuat UI dengan flexbox](https://www.flexboxpatterns.com/)
-
+4. [Membuat UI dengan flexbox](https://www.flexboxpatterns.com)

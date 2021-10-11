@@ -12,7 +12,7 @@ Semua akan terjawab ketika kita belajar user story.
 
 ![User Story Mapping](../../.gitbook/assets/story_mapping.png)
 
-User Story Mapping adalah teknik yang dikembangkan oleh Jeff Patton selama praktiknya yang panjang sebagai pemilik / pemilik scrum produk Agile. Sesuai namanya, User Story Mapping ada karena membantu memetakan cerita pengguna dan item simpanan lainnya secara visual. Item disusun dalam dua dimensi: Yang vertikal menunjukkan prioritas, sedangkan yang horizontal mewakili langkah yang dilakukan pengguna untuk melakukan tindakan dalam sistem \(perjalanan pengguna\).
+User Story Mapping adalah teknik yang dikembangkan oleh Jeff Patton selama praktiknya yang panjang sebagai pemilik / pemilik scrum produk Agile. Sesuai namanya, User Story Mapping ada karena membantu memetakan cerita pengguna dan item simpanan lainnya secara visual. Item disusun dalam dua dimensi: Yang vertikal menunjukkan prioritas, sedangkan yang horizontal mewakili langkah yang dilakukan pengguna untuk melakukan tindakan dalam sistem (perjalanan pengguna).
 
 ## Struktur
 
@@ -31,4 +31,3 @@ Pendekatan yang dijelaskan oleh Jeff Patton hanyalah salah satu dari banyak cara
 * User Journey. User Story Backbone adalah versi User Journey yang disederhanakan.
 * Tujuan dan visi produk yang jelas. Story Map adalah dokumen dinamis yang akan diperluas seiring pertumbuhan produk.
 * Komunikasi yang baik. Product backlogs dibuat oleh satu orang, seorang product owner.
-

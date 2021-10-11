@@ -2,7 +2,7 @@
 
 ## 1. Penjelasan HTML
 
-Hypertext Markup Language \(HTML\) adalah satu dari banyak bahasa markup yang digunakan untuk menentukan struktur dari website yang akan kita buat.
+Hypertext Markup Language (HTML) adalah satu dari banyak bahasa markup yang digunakan untuk menentukan struktur dari website yang akan kita buat.
 
 ## 2. Cara Penulisan
 
@@ -20,4 +20,3 @@ Sintaks atau cara penulisan HTML biasanya terlihat seperti ini:
   </body>
 </html>
 ```
-

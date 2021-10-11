@@ -63,10 +63,10 @@
 * [💡Fase Ideate](design-thinking/fase-ideate/README.md)
   * [Menuangkan Ide Brilian dengan Sketchstorming](design-thinking/fase-ideate/menuangkan-ide-brilian-dengan-sketchstorming.md)
 * [📱Fase Prototype](design-thinking/fase-prototype.md)
-* [💉 Fase Testing](design-thinking/fase-testing.md)
+* [💉 Fase Testing](design-thinking/fase-testing/README.md)
+  * [Melakukan User Testing](design-thinking/fase-testing/melakukan-user-testing.md)
 
 ## Referesi Lain
 
 * [UX Animation](https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9)
 * [UX Research](https://medium.com/design-jam-indonesia/apa-itu-design-thinking-63c8416c9dd0)
-

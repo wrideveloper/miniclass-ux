@@ -14,12 +14,11 @@ Design guidelines memiliki beberapa kegunaan seperti membuat standarisasi tampil
 
 UX designer dapat diibaratkan seperti seorang arsitek. Ia memahami perilaku pengguna dan faktor-faktor psikologi. Seorang UX designer bertugas merancang user flow berdasarkan kebutuhan bisnis.
 
-Di sisi lain, UI designer dapat diibaratkan sebagai penghias \(decorator\). Ia merancang agar interface suatu produk dapat merefleksikan brand terkait. Seorang UI designer bertugas untuk memahami brand dan menjadikannya dalam bentuk elemen-elemen UI.
+Di sisi lain, UI designer dapat diibaratkan sebagai penghias (decorator). Ia merancang agar interface suatu produk dapat merefleksikan brand terkait. Seorang UI designer bertugas untuk memahami brand dan menjadikannya dalam bentuk elemen-elemen UI.
 
 ## Contoh Design Guideline
 
 Design yang baik adalah ketika kita mengikuti seluruh aspek-dari design guidelines. Tetapi sangakt sulit jika kita mengikuti seluruh aspek dalam design guideline. sehingga kita tidak perlu mengikuti seluruh aspek dalam design guideline.
 
-* [Material Design \(Android\)](https://material.io/)
+* [Material Design (Android)](https://material.io)
 * [Apple Design Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
-

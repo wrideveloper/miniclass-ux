@@ -15,4 +15,3 @@ Untuk mengelompokkan beberapa tag HTML, kita dapat menggunakan tag `div`, contoh
   <a href="http://google.com">pergi ke google</a>
 </div>
 ```
-

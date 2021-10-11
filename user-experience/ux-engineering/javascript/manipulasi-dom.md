@@ -4,7 +4,7 @@
 
 ## 1. Apa Itu DOM ?
 
-**DOM** \(Document Object Model\) merupakan API dari dokumen HTML dan XML yang berisi struktur dari dokumen yang telah dimuat di browser kita, file HTML yang kita buka di browser akan diproses oleh DOM parser dan akan berubah menjadi bentuk DOM
+**DOM** (Document Object Model) merupakan API dari dokumen HTML dan XML yang berisi struktur dari dokumen yang telah dimuat di browser kita, file HTML yang kita buka di browser akan diproses oleh DOM parser dan akan berubah menjadi bentuk DOM
 
 ![dom-parser](../../../.gitbook/assets/dom-parser.jpg)
 
@@ -84,4 +84,3 @@ element.classList.length
 // mendapatkan class pertama pada element
 element.classList.item(0)
 ```
-

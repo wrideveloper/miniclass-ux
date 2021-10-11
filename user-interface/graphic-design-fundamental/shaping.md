@@ -29,13 +29,12 @@ Untuk melakukan seleksi, kita dapat menggunakan Selection Tools dan Direct Selec
 
 Jika kita menggunakan Selection Tools, Kita dapat mengubah secara dimensi seperti Width, Height, Angle, Scale, Pos X, Pos Y, dll.
 
-Jika kita menggunakan Direct Selection Tools, kita dapat memindahkan posisi suatu node \(titik\) atau segment \(garis\) sesuai yang kita inginkan. Direct Selection Tools memungkinkan kita untuk mengubah bentuk dari bangun datar vektor seperti segiempat menjadi segitiga, trapesium, jajar genjang, dll.
+Jika kita menggunakan Direct Selection Tools, kita dapat memindahkan posisi suatu node (titik) atau segment (garis) sesuai yang kita inginkan. Direct Selection Tools memungkinkan kita untuk mengubah bentuk dari bangun datar vektor seperti segiempat menjadi segitiga, trapesium, jajar genjang, dll.
 
 ### Reshaping
 
 Untuk melakukan reshape, kita biasa menggunakan pen tool dan Direct Selection Tools.
 
-Pen Tool dapat digunakan untuk menambahkan dan menghapus node \(titik\) didalam suatu segment \(garis\), sehingga kita dapat menggunakannya untuk merubah bentuk menjadi segilima, segienam, segitiga, dll.
+Pen Tool dapat digunakan untuk menambahkan dan menghapus node (titik) didalam suatu segment (garis), sehingga kita dapat menggunakannya untuk merubah bentuk menjadi segilima, segienam, segitiga, dll.
 
 Direct Selection Tools juga dapat mengubah sudut masuk dan keluar dari suatu node.
-

@@ -47,4 +47,3 @@ Label digunakan untuk memberikan label pada inputan yang kita buat, sehingga use
 ```
 
 disini kita perlu memberikan `id` pada `input` yang kita buat, kemudian kita tinggal menambahkan attribut `for` pada label yang mengacu pada id input yang telah dibuat, sehingga apabila label tersebut kita klik maka cursor akan langsung fokus ke input yang terkait
-

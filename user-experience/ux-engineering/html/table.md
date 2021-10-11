@@ -30,4 +30,3 @@ Untuk membuat table pada HTML, kita dapat menggunakan kombinasi tag `table` deng
 ```
 
 tag `table` digunakan sebagai pembungkus, tag `tr` atau table row digunakan untuk membuat baris pada table, tag `th` atau table header digunakan untuk membuat judul kolom pada table, sedangkan tag `td` atau table data digunakan untuk membuat kolom pada table
-

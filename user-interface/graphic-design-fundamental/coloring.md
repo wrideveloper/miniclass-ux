@@ -12,7 +12,7 @@ Pada desain vektor terdapat beberapa Color Spaces seperti halnya pada desain bit
 
 1. RGB : biasa digunakan pada desain digital seperti web, mobile, e book, dll.
 2. CMYK : biasa digunakan pada desain printing seperti paper print, sablon, dll.
-3. HSL : hampir sama seperti RGB, hanya saja dengan menggunakan HSL, kita dibuat lebih mudah karena hanya menggeser hue \(warna\), saturation \(ketajaman warna\), lightness \(kececrahan warna\).
+3. HSL : hampir sama seperti RGB, hanya saja dengan menggunakan HSL, kita dibuat lebih mudah karena hanya menggeser hue (warna), saturation (ketajaman warna), lightness (kececrahan warna).
 4. K : hanya hitam dan putih
 
 ## Jenis Pewarnaan
@@ -29,7 +29,7 @@ Color disini adalah kita memberikan 1 warna pada suatu bangun vektor, seperti me
 
 Gradient disini adalah memberikan beberapa warna pada jarak tertentu, pada jarak tersebut terdapat transisi warna.
 
-### Advanced \(dengan support yang lebih sedikit\)
+### Advanced (dengan support yang lebih sedikit)
 
 Disini kita akan memberi tahu beberapa pewarnaan yang menarik namun tidak semua aplikasi mendukung desain yang kita buat.
 
@@ -40,4 +40,3 @@ Gradient mesh disini adalah kita memberikan warna pada node dari bentuk vektor.
 #### Freeform Gradient
 
 Freeform Gradient disini adalah kita memberi warna pada titik-titik tertentu didalam vektor.
-

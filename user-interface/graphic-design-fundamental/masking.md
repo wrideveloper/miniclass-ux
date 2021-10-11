@@ -14,7 +14,7 @@ Tujuan dari masking adalah kita dapat menutupi suatu layer dengan bangun vektor 
 
 1. Letakkan layer yang ingin di masking
 2. Letakkan layer masker diatas yang ingin di masking
-3. Klik kanan &gt; make / create clipping mask \(tergantung aplikasi\)
+3. Klik kanan > make / create clipping mask (tergantung aplikasi)
 
 ### Pathfinder
 
@@ -23,4 +23,3 @@ Pada hal ini, hampir semua aplikasi desain vektor memiliki fitur ini. Hal yang d
 ### Shape Builder Tool
 
 Sebenarnya, fitur ini juga tidak bisa dikatakan fitur masking. tapi fitur ini sangat berguna untuk kalian yang ingin bikin bentuk aneh-aneh tanpa mikirin pathfinder.
-

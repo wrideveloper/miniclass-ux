@@ -2,7 +2,7 @@
 
 ## 1. Penjelasan List
 
-List digunakan untuk menampilkan kumpulkan text dalam bentuk daftar \(list\), ada dua jenis list, yaitu berurutan \(ordered list\), dan tidak berurutan \(unordered list\)
+List digunakan untuk menampilkan kumpulkan text dalam bentuk daftar (list), ada dua jenis list, yaitu berurutan (ordered list), dan tidak berurutan (unordered list)
 
 ## 2. Jenis List
 
@@ -31,4 +31,3 @@ Unordered list merupakan list yang tidak berurutan, sehingga setiap item pada li
 ```
 
 disana juga terdapat tag `li` yang digunakan untuk membuat list item, sehingga untuk setiap item pada list tersebut perlu kita bungkus dengan tag `li`
-

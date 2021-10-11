@@ -6,7 +6,7 @@ description: >-
 
 # 👨‍💻 UX Engineering
 
-## 🛢 Materi
+## :oil: Materi
 
 * HTML
   * [Pengertian HTML](html/pengenalan-html.md)
@@ -29,4 +29,3 @@ description: >-
   * [Pengenalan Javascript](javascript/pengenalan-javascript.md)
   * [Manipulasi DOM](javascript/manipulasi-dom.md)
   * [Event](javascript/event.md)
-

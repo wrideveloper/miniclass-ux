@@ -2,7 +2,7 @@
 
 ## 1. Penjelasan Javascript
 
-**Javascript** \(JS\) merupakan bahasa pemrograman yang biasa digunakan bersama dengan HTML dan CSS untuk menambahkan fitur interaktif pada website.
+**Javascript** (JS) merupakan bahasa pemrograman yang biasa digunakan bersama dengan HTML dan CSS untuk menambahkan fitur interaktif pada website.
 
 ![pengenalan-javascript](../../../.gitbook/assets/pengenalan-javascript.gif)
 
@@ -18,4 +18,3 @@ Pada era development web modern saat ini, javascript benar - benar dibutuhkan un
 * [**w3school**](https://www.w3schools.com/js/default.asp)
 * [**Petanikode**](https://www.petanikode.com/tutorial/javascript/)
 * [**freecodecamp**](https://www.freecodecamp.org/challenges/comment-your-javascript-code)
-

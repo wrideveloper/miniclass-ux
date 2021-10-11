@@ -14,8 +14,7 @@ Menurut wikipedia, ‎Prototipe ‎‎adalah‎‎ sampel awal, model, atau pele
 
 Untuk melakukan prototyping di figma, terdapat fitur prototype di aplikasi tersebut.
 
-1. Klik protoype \(kanan atas aplikasi figma\)
+1. Klik protoype (kanan atas aplikasi figma)
 2. Pertama, kita klik sebuah item / tombol yang akan kita interaksikan.
 3. Terdapat bundar / pentolan di sebelah kanan item tersebut. Tarik dari pentolan tersebut ke halaman / frame tujuan.
-4. Kita dapat mengubah aksi dari prototype tersebut di bagian prototype \(sebelah kanan figma\), misal mengubah animasi, mengubah aksi menjadi on drag, on hover, dll, mengubah reaksi menjadi open overlay, atau mengubah durasi animasi, dll.
-
+4. Kita dapat mengubah aksi dari prototype tersebut di bagian prototype (sebelah kanan figma), misal mengubah animasi, mengubah aksi menjadi on drag, on hover, dll, mengubah reaksi menjadi open overlay, atau mengubah durasi animasi, dll.

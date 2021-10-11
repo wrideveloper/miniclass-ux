@@ -4,7 +4,7 @@ description: Belajar Hypertext Markup Language untuk menyusun kerangka desain We
 
 # ♯ HTML
 
-## 🛢 Materi
+## :oil: Materi
 
 * [Pengertian HTML](pengenalan-html.md)
 * [Text Formatting](text-formatting.md)
@@ -14,4 +14,3 @@ description: Belajar Hypertext Markup Language untuk menyusun kerangka desain We
 * [Table](table.md)
 * [Form](form.md)
 * [Grouping](grouping.md)
-

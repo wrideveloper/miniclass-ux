@@ -4,11 +4,9 @@ description: Belajar dasar-dasar Desain Grafis sebelum kamu mulai mendesain anta
 
 # 🖌️ Graphic Design Fundamental
 
-## 🛢 Materi
+## :oil: Materi
 
 * [Shaping](shaping.md)
 * [Coloring](coloring.md)
 * [Masking](masking.md)
-
-
 

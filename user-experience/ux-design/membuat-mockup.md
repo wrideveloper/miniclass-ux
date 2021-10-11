@@ -10,16 +10,15 @@ Mockup menurut kami adalah desain tampilan dari sebuah aplikasi yang akan diguna
 
 ## Tools
 
-Software yang dapat kita gunakan untuk membuat sebuah mockup aplikasi adalah software desain seperti pada umumnya. yaitu \(pilih salah satu aja\) :
+Software yang dapat kita gunakan untuk membuat sebuah mockup aplikasi adalah software desain seperti pada umumnya. yaitu (pilih salah satu aja) :
 
-* Adobe Illustrator / Corel Draw \(Vector Based\)
-* Adobe Photoshop \(Pixel Based\)
+* Adobe Illustrator / Corel Draw (Vector Based)
+* Adobe Photoshop (Pixel Based)
 
 Tetapi software tersebut sebenarnya sangat jarang digunakan oleh UX Designer. Mengapa? karena dengan menggunakan aplikasi tersebut, kita tidak dapat menginteraksikan design yang kita buat. Oleh karena itu, kita membuat mockup aplikasi menggunakan aplikasi berikut :
 
-* Figma \(Web, Windows, Mac\)
-* Sketch \(Mac only\) \(Khusus orang kaya\)
-* Adobe XD \(Windows, Mac\)
+* Figma (Web, Windows, Mac)
+* Sketch (Mac only) (Khusus orang kaya)
+* Adobe XD (Windows, Mac)
 
-Linux pake apa? Pake Figma. Soalnya figma bisa dibuka di web :\)
-
+Linux pake apa? Pake Figma. Soalnya figma bisa dibuka di web :)
